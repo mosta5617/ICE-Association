@@ -1,0 +1,4 @@
+{{ URL::route('posteducationalbackground')}}
+{{ URL::route('postprofessionalexperience') }}
+{{ URL::route('postfieldofinterest') }}
+{{ URL::route('postpublications') }}
